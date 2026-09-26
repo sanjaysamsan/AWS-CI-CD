@@ -42,7 +42,7 @@ Review the build project settings and click on the "Create build project" button
 Fantastic! With AWS CodeBuild all set up, we're now ready to witness the magic of continuous integration in action.
 
 Trigger the CI Process
-In this final step, we'll trigger the CI process by making a change to our GitHub repository. Let's see how it works:
+In this final step, we'll trigger the CI process by making a change to our GitHub repository.
 
 Go to your GitHub repository and make a change to your Python application's source code. It could be a bug fix, a new feature, or any other change you want to introduce.
 Commit and push your changes to the branch configured in your AWS CodePipeline.
